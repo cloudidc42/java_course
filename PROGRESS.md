@@ -63,10 +63,20 @@
 **หมวดที่ 3 บางส่วน (File I/O, Functional Programming, Date/Time, Regex,
 Concurrency — Part 36-50) เสร็จสมบูรณ์แล้ว! รวม 50/105 Part**
 
+- [x] Part 51 — Records, Sealed Classes, Pattern Matching
+- [x] Part 52 — Annotations
+- [x] Part 53 — Reflection API
+- [x] Part 54 — Design Patterns: Creational
+- [x] Part 55 — Design Patterns: Structural
+
+**Part 36-55 (หมวด Java ระดับกลางถึงขั้นสูงทั้งหมด) เสร็จสมบูรณ์แล้ว!
+รวม 55/105 Part**
+
 ## กำลังดำเนินการ / อยู่ในแผนถัดไป
 
-ดูรายการทั้งหมด (Part 51-105+) ได้ที่ [`CURRICULUM.md`](./CURRICULUM.md)
-Part ถัดไปที่จะเขียนคือ **Part 51 — Records, Sealed Classes, Pattern Matching**
+ดูรายการทั้งหมด (Part 56-105+) ได้ที่ [`CURRICULUM.md`](./CURRICULUM.md)
+Part ถัดไปที่จะเขียนคือ **Part 56 — Design Patterns: Behavioral** (เริ่ม
+หมวดที่ 4: Java ขั้นสูงและ Tooling)
 
 ## แนวทางการเขียนเนื้อหาต่อ
 

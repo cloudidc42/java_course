@@ -72,11 +72,11 @@
 | 48 | 471-480 | Executor Framework, Thread Pool, Callable, Future | ✅ |
 | 49 | 481-490 | CompletableFuture และ Asynchronous Programming | ✅ |
 | 50 | 491-500 | Concurrent Collections: ConcurrentHashMap, CopyOnWriteArrayList, Atomic | ✅ |
-| 51 | 501-510 | Records, Sealed Classes, Pattern Matching (Java 17-21) | ⏳ |
-| 52 | 511-520 | Annotations: การใช้งานและการสร้าง Custom Annotation | ⏳ |
-| 53 | 521-530 | Reflection API | ⏳ |
-| 54 | 531-540 | Design Patterns: Creational (Singleton, Factory, Abstract Factory, Builder) | ⏳ |
-| 55 | 541-550 | Design Patterns: Structural (Adapter, Decorator, Facade, Proxy, Composite) | ⏳ |
+| 51 | 501-510 | Records, Sealed Classes, Pattern Matching (Java 17-21) | ✅ |
+| 52 | 511-520 | Annotations: การใช้งานและการสร้าง Custom Annotation | ✅ |
+| 53 | 521-530 | Reflection API | ✅ |
+| 54 | 531-540 | Design Patterns: Creational (Singleton, Factory, Abstract Factory, Builder) | ✅ |
+| 55 | 541-550 | Design Patterns: Structural (Adapter, Decorator, Facade, Proxy, Composite) | ✅ |
 
 ## ส่วนที่ 4: Java ขั้นสูงและ Tooling (Part 56-70 | Steps 551-700)
 
