@@ -26,11 +26,29 @@
 - [x] Part 18 — Enums แบบละเอียด
 - [x] Part 19 — Nested Classes, Inner Classes, Anonymous Classes
 - [x] Part 20 — Packages, การจัดระเบียบโปรเจกต์
+- [x] Part 21 — Exception Handling ขั้นสูง
+- [x] Part 22 — Collections: List (ArrayList, LinkedList)
+- [x] Part 23 — Collections: Set (HashSet, LinkedHashSet, TreeSet)
+- [x] Part 24 — Collections: Map (HashMap, LinkedHashMap, TreeMap)
+- [x] Part 25 — Queue, Deque, PriorityQueue
+- [x] Part 26 — Generics
+- [x] Part 27 — Iterator, Iterable, Comparable, Comparator
+- [x] Part 28 — Wrapper Classes, Autoboxing/Unboxing
+- [x] Part 29 — Recursion ขั้นสูง: Backtracking, Memoization
+- [x] Part 30 — Sorting Algorithms
+- [x] Part 31 — Searching Algorithms, manual Stack/Queue
+- [x] Part 32 — Linked List แบบ Manual
+- [x] Part 33 — Tree: Binary Tree, BST, Traversal
+- [x] Part 34 — Graph เบื้องต้น: BFS, DFS
+- [x] Part 35 — Big O Notation
+
+**หมวดที่ 2 (โครงสร้างข้อมูลและอัลกอริทึม, Part 21-35) เสร็จสมบูรณ์แล้ว!**
 
 ## กำลังดำเนินการ / อยู่ในแผนถัดไป
 
-ดูรายการทั้งหมด (Part 21-105+) ได้ที่ [`CURRICULUM.md`](./CURRICULUM.md)
-Part ถัดไปที่จะเขียนคือ **Part 21 — Exception Handling ขั้นสูง**
+ดูรายการทั้งหมด (Part 36-105+) ได้ที่ [`CURRICULUM.md`](./CURRICULUM.md)
+Part ถัดไปที่จะเขียนคือ **Part 36 — File I/O เบื้องต้น** (เริ่มหมวดที่ 3:
+Java ระดับกลางถึงขั้นสูง)
 
 ## แนวทางการเขียนเนื้อหาต่อ
 

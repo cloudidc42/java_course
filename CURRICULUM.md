@@ -37,21 +37,21 @@
 
 | Part | ขั้นตอน | หัวข้อ | สถานะ |
 |---|---|---|---|
-| 21 | 201-210 | Exception Handling ขั้นสูง: Custom Exception, try-with-resources, multi-catch | ⏳ |
-| 22 | 211-220 | Collections Framework ภาพรวม, List: ArrayList, LinkedList | ⏳ |
-| 23 | 221-230 | Set: HashSet, LinkedHashSet, TreeSet | ⏳ |
-| 24 | 231-240 | Map: HashMap, LinkedHashMap, TreeMap | ⏳ |
-| 25 | 241-250 | Queue, Deque, PriorityQueue, Stack class | ⏳ |
-| 26 | 251-260 | Generics: Generic class, method, bounded types, wildcards | ⏳ |
-| 27 | 261-270 | Iterator, Iterable, Comparable, Comparator | ⏳ |
-| 28 | 271-280 | Wrapper Classes, Autoboxing/Unboxing, Number formatting | ⏳ |
-| 29 | 281-290 | Recursion ขั้นสูง: backtracking, memoization เบื้องต้น | ⏳ |
-| 30 | 291-300 | Sorting Algorithms: Bubble, Selection, Insertion, Merge, Quick Sort | ⏳ |
-| 31 | 301-310 | Searching Algorithms: Linear, Binary Search, และการสร้าง Stack/Queue เอง | ⏳ |
-| 32 | 311-320 | Linked List แบบ manual (Singly, Doubly, Circular) | ⏳ |
-| 33 | 321-330 | Tree: Binary Tree, Binary Search Tree, Tree Traversal | ⏳ |
-| 34 | 331-340 | Graph เบื้องต้น: representation, BFS, DFS | ⏳ |
-| 35 | 341-350 | Big O Notation, Time/Space Complexity, การวิเคราะห์อัลกอริทึม | ⏳ |
+| 21 | 201-210 | Exception Handling ขั้นสูง: Custom Exception, try-with-resources, multi-catch | ✅ |
+| 22 | 211-220 | Collections Framework ภาพรวม, List: ArrayList, LinkedList | ✅ |
+| 23 | 221-230 | Set: HashSet, LinkedHashSet, TreeSet | ✅ |
+| 24 | 231-240 | Map: HashMap, LinkedHashMap, TreeMap | ✅ |
+| 25 | 241-250 | Queue, Deque, PriorityQueue, Stack class | ✅ |
+| 26 | 251-260 | Generics: Generic class, method, bounded types, wildcards | ✅ |
+| 27 | 261-270 | Iterator, Iterable, Comparable, Comparator | ✅ |
+| 28 | 271-280 | Wrapper Classes, Autoboxing/Unboxing, Number formatting | ✅ |
+| 29 | 281-290 | Recursion ขั้นสูง: backtracking, memoization เบื้องต้น | ✅ |
+| 30 | 291-300 | Sorting Algorithms: Bubble, Selection, Insertion, Merge, Quick Sort | ✅ |
+| 31 | 301-310 | Searching Algorithms: Linear, Binary Search, และการสร้าง Stack/Queue เอง | ✅ |
+| 32 | 311-320 | Linked List แบบ manual (Singly, Doubly, Circular) | ✅ |
+| 33 | 321-330 | Tree: Binary Tree, Binary Search Tree, Tree Traversal | ✅ |
+| 34 | 331-340 | Graph เบื้องต้น: representation, BFS, DFS | ✅ |
+| 35 | 341-350 | Big O Notation, Time/Space Complexity, การวิเคราะห์อัลกอริทึม | ✅ |
 
 ## ส่วนที่ 3: Java ระดับกลางถึงขั้นสูง (Part 36-55 | Steps 351-550)
 
