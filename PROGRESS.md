@@ -72,11 +72,19 @@ Concurrency — Part 36-50) เสร็จสมบูรณ์แล้ว! �
 **Part 36-55 (หมวด Java ระดับกลางถึงขั้นสูงทั้งหมด) เสร็จสมบูรณ์แล้ว!
 รวม 55/105 Part**
 
+- [x] Part 56 — Design Patterns: Behavioral
+- [x] Part 57 — SOLID Principles และ Clean Code
+- [x] Part 58 — Unit Testing ด้วย JUnit 5
+- [x] Part 59 — Mocking ด้วย Mockito
+- [x] Part 60 — Test-Driven Development (TDD)
+
+**Design Patterns (Part 54-56) และ Testing (Part 58-60) เสร็จสมบูรณ์แล้ว!
+รวม 60/105 Part**
+
 ## กำลังดำเนินการ / อยู่ในแผนถัดไป
 
-ดูรายการทั้งหมด (Part 56-105+) ได้ที่ [`CURRICULUM.md`](./CURRICULUM.md)
-Part ถัดไปที่จะเขียนคือ **Part 56 — Design Patterns: Behavioral** (เริ่ม
-หมวดที่ 4: Java ขั้นสูงและ Tooling)
+ดูรายการทั้งหมด (Part 61-105+) ได้ที่ [`CURRICULUM.md`](./CURRICULUM.md)
+Part ถัดไปที่จะเขียนคือ **Part 61 — Build Tools: Maven**
 
 ## แนวทางการเขียนเนื้อหาต่อ
 

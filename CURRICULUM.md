@@ -82,11 +82,11 @@
 
 | Part | ขั้นตอน | หัวข้อ | สถานะ |
 |---|---|---|---|
-| 56 | 551-560 | Design Patterns: Behavioral (Observer, Strategy, Command, Template Method, State) | ⏳ |
-| 57 | 561-570 | SOLID Principles และ Clean Code ในทางปฏิบัติ | ⏳ |
-| 58 | 571-580 | Unit Testing ด้วย JUnit 5 (Assertions, Lifecycle, Parameterized Tests) | ⏳ |
-| 59 | 581-590 | Mocking ด้วย Mockito | ⏳ |
-| 60 | 591-600 | Test-Driven Development (TDD) ในทางปฏิบัติ | ⏳ |
+| 56 | 551-560 | Design Patterns: Behavioral (Observer, Strategy, Command, Template Method, State) | ✅ |
+| 57 | 561-570 | SOLID Principles และ Clean Code ในทางปฏิบัติ | ✅ |
+| 58 | 571-580 | Unit Testing ด้วย JUnit 5 (Assertions, Lifecycle, Parameterized Tests) | ✅ |
+| 59 | 581-590 | Mocking ด้วย Mockito | ✅ |
+| 60 | 591-600 | Test-Driven Development (TDD) ในทางปฏิบัติ | ✅ |
 | 61 | 601-610 | Build Tools: Maven เบื้องต้นถึงขั้นสูง (POM, Lifecycle, Plugins) | ⏳ |
 | 62 | 611-620 | Build Tools: Gradle เบื้องต้นถึงขั้นสูง | ⏳ |
 | 63 | 621-630 | Logging ด้วย SLF4J และ Logback | ⏳ |
