@@ -28,10 +28,10 @@
 | 14 | 131-140 | Inheritance, super keyword, Method Overriding | ✅ |
 | 15 | 141-150 | Polymorphism, Dynamic Binding, instanceof, Casting Objects | ✅ |
 | 16 | 151-160 | Abstract Classes และ Interfaces (default/static methods) | ✅ |
-| 17 | 161-170 | Static members, Final keyword, Immutability | ⏳ |
-| 18 | 171-180 | Enums แบบละเอียด (methods, fields, abstract methods ใน enum) | ⏳ |
-| 19 | 181-190 | Nested Classes, Inner Classes, Local Classes, Anonymous Classes | ⏳ |
-| 20 | 191-200 | Packages, การจัดระเบียบโปรเจกต์, classpath พื้นฐาน | ⏳ |
+| 17 | 161-170 | Static members, Final keyword, Immutability | ✅ |
+| 18 | 171-180 | Enums แบบละเอียด (methods, fields, abstract methods ใน enum) | ✅ |
+| 19 | 181-190 | Nested Classes, Inner Classes, Local Classes, Anonymous Classes | ✅ |
+| 20 | 191-200 | Packages, การจัดระเบียบโปรเจกต์, classpath พื้นฐาน | ✅ |
 
 ## ส่วนที่ 2: โครงสร้างข้อมูลและอัลกอริทึม (Part 21-35 | Steps 201-350)
 

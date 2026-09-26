@@ -22,11 +22,15 @@
 - [x] Part 14 — Inheritance
 - [x] Part 15 — Polymorphism
 - [x] Part 16 — Abstract Classes และ Interfaces
+- [x] Part 17 — Static, Final และ Immutability
+- [x] Part 18 — Enums แบบละเอียด
+- [x] Part 19 — Nested Classes, Inner Classes, Anonymous Classes
+- [x] Part 20 — Packages, การจัดระเบียบโปรเจกต์
 
 ## กำลังดำเนินการ / อยู่ในแผนถัดไป
 
-ดูรายการทั้งหมด (Part 17-105+) ได้ที่ [`CURRICULUM.md`](./CURRICULUM.md)
-Part ถัดไปที่จะเขียนคือ **Part 17 — Static, Final และ Immutability**
+ดูรายการทั้งหมด (Part 21-105+) ได้ที่ [`CURRICULUM.md`](./CURRICULUM.md)
+Part ถัดไปที่จะเขียนคือ **Part 21 — Exception Handling ขั้นสูง**
 
 ## แนวทางการเขียนเนื้อหาต่อ
 
