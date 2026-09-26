@@ -57,21 +57,21 @@
 
 | Part | ขั้นตอน | หัวข้อ | สถานะ |
 |---|---|---|---|
-| 36 | 351-360 | File I/O เบื้องต้น: File, FileReader/Writer, BufferedReader/Writer | ⏳ |
-| 37 | 361-370 | NIO.2: Path, Files, การอ่านเขียนไฟล์สมัยใหม่ | ⏳ |
-| 38 | 371-380 | Serialization, Deserialization, Serializable interface | ⏳ |
-| 39 | 381-390 | Lambda Expressions พื้นฐานถึงขั้นสูง | ⏳ |
-| 40 | 391-400 | Functional Interfaces: Function, Predicate, Consumer, Supplier | ⏳ |
-| 41 | 401-410 | Stream API เบื้องต้น: filter, map, reduce, collect | ⏳ |
-| 42 | 411-420 | Stream API ขั้นสูง: Collectors, groupingBy, parallel streams | ⏳ |
-| 43 | 421-430 | Optional Class และการเขียนโค้ด null-safe | ⏳ |
-| 44 | 431-440 | Date and Time API (java.time): LocalDate, LocalDateTime, Duration | ⏳ |
-| 45 | 441-450 | Regular Expressions (Regex) ใน Java | ⏳ |
-| 46 | 451-460 | Multithreading เบื้องต้น: Thread, Runnable, Thread lifecycle | ⏳ |
-| 47 | 461-470 | Multithreading ขั้นสูง: synchronized, wait/notify, Lock, Deadlock | ⏳ |
-| 48 | 471-480 | Executor Framework, Thread Pool, Callable, Future | ⏳ |
-| 49 | 481-490 | CompletableFuture และ Asynchronous Programming | ⏳ |
-| 50 | 491-500 | Concurrent Collections: ConcurrentHashMap, CopyOnWriteArrayList, Atomic | ⏳ |
+| 36 | 351-360 | File I/O เบื้องต้น: File, FileReader/Writer, BufferedReader/Writer | ✅ |
+| 37 | 361-370 | NIO.2: Path, Files, การอ่านเขียนไฟล์สมัยใหม่ | ✅ |
+| 38 | 371-380 | Serialization, Deserialization, Serializable interface | ✅ |
+| 39 | 381-390 | Lambda Expressions พื้นฐานถึงขั้นสูง | ✅ |
+| 40 | 391-400 | Functional Interfaces: Function, Predicate, Consumer, Supplier | ✅ |
+| 41 | 401-410 | Stream API เบื้องต้น: filter, map, reduce, collect | ✅ |
+| 42 | 411-420 | Stream API ขั้นสูง: Collectors, groupingBy, parallel streams | ✅ |
+| 43 | 421-430 | Optional Class และการเขียนโค้ด null-safe | ✅ |
+| 44 | 431-440 | Date and Time API (java.time): LocalDate, LocalDateTime, Duration | ✅ |
+| 45 | 441-450 | Regular Expressions (Regex) ใน Java | ✅ |
+| 46 | 451-460 | Multithreading เบื้องต้น: Thread, Runnable, Thread lifecycle | ✅ |
+| 47 | 461-470 | Multithreading ขั้นสูง: synchronized, wait/notify, Lock, Deadlock | ✅ |
+| 48 | 471-480 | Executor Framework, Thread Pool, Callable, Future | ✅ |
+| 49 | 481-490 | CompletableFuture และ Asynchronous Programming | ✅ |
+| 50 | 491-500 | Concurrent Collections: ConcurrentHashMap, CopyOnWriteArrayList, Atomic | ✅ |
 | 51 | 501-510 | Records, Sealed Classes, Pattern Matching (Java 17-21) | ⏳ |
 | 52 | 511-520 | Annotations: การใช้งานและการสร้าง Custom Annotation | ⏳ |
 | 53 | 521-530 | Reflection API | ⏳ |

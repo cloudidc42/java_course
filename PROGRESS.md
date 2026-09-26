@@ -44,11 +44,29 @@
 
 **หมวดที่ 2 (โครงสร้างข้อมูลและอัลกอริทึม, Part 21-35) เสร็จสมบูรณ์แล้ว!**
 
+- [x] Part 36 — File I/O เบื้องต้น
+- [x] Part 37 — NIO.2: Path, Files
+- [x] Part 38 — Serialization, Deserialization
+- [x] Part 39 — Lambda Expressions
+- [x] Part 40 — Functional Interfaces
+- [x] Part 41 — Stream API เบื้องต้น
+- [x] Part 42 — Stream API ขั้นสูง
+- [x] Part 43 — Optional Class
+- [x] Part 44 — Date and Time API
+- [x] Part 45 — Regular Expressions
+- [x] Part 46 — Multithreading เบื้องต้น
+- [x] Part 47 — Multithreading ขั้นสูง
+- [x] Part 48 — Executor Framework, Future
+- [x] Part 49 — CompletableFuture
+- [x] Part 50 — Concurrent Collections
+
+**หมวดที่ 3 บางส่วน (File I/O, Functional Programming, Date/Time, Regex,
+Concurrency — Part 36-50) เสร็จสมบูรณ์แล้ว! รวม 50/105 Part**
+
 ## กำลังดำเนินการ / อยู่ในแผนถัดไป
 
-ดูรายการทั้งหมด (Part 36-105+) ได้ที่ [`CURRICULUM.md`](./CURRICULUM.md)
-Part ถัดไปที่จะเขียนคือ **Part 36 — File I/O เบื้องต้น** (เริ่มหมวดที่ 3:
-Java ระดับกลางถึงขั้นสูง)
+ดูรายการทั้งหมด (Part 51-105+) ได้ที่ [`CURRICULUM.md`](./CURRICULUM.md)
+Part ถัดไปที่จะเขียนคือ **Part 51 — Records, Sealed Classes, Pattern Matching**
 
 ## แนวทางการเขียนเนื้อหาต่อ
 
