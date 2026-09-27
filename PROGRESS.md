@@ -122,10 +122,25 @@ Concurrency — Part 36-50) เสร็จสมบูรณ์แล้ว! �
 **หมวดที่ 5: Web Development (Part 71-90) เสร็จสมบูรณ์แล้ว! รวม 90/105
 Part — เหลือแค่หมวดสุดท้าย: Professional/World-class Level (Part 91-105)**
 
+- [x] Part 91 — Microservices Architecture
+- [x] Part 92 — Spring Cloud: Service Discovery ด้วย Eureka
+- [x] Part 93 — API Gateway
+- [x] Part 94 — Config Server และ Circuit Breaker (Resilience4j)
+- [x] Part 95 — Docker: Containerization
+- [x] Part 96 — Kubernetes
+- [x] Part 97 — CI/CD Pipeline
+- [x] Part 98 — Cloud Deployment: AWS/GCP
+- [x] Part 99 — Monitoring และ Observability
+- [x] Part 100 — System Design สำหรับระบบขนาดใหญ่
+
+**100/105 Part เสร็จแล้ว! เหลืออีก 5 Part สุดท้าย: Security/OWASP,
+Reactive Programming, Capstone Project (2 part), และ Career Roadmap**
+
 ## กำลังดำเนินการ / อยู่ในแผนถัดไป
 
-ดูรายการทั้งหมด (Part 91-105+) ได้ที่ [`CURRICULUM.md`](./CURRICULUM.md)
-Part ถัดไปที่จะเขียนคือ **Part 91 — Microservices Architecture**
+ดูรายการทั้งหมด (Part 101-105+) ได้ที่ [`CURRICULUM.md`](./CURRICULUM.md)
+Part ถัดไปที่จะเขียนคือ **Part 101 — Security Best Practices และ OWASP
+Top 10**
 
 ## แนวทางการเขียนเนื้อหาต่อ
 

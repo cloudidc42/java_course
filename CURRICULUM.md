@@ -127,16 +127,16 @@
 
 | Part | ขั้นตอน | หัวข้อ | สถานะ |
 |---|---|---|---|
-| 91 | 901-910 | Microservices Architecture เบื้องต้น: หลักการ, ข้อดี-ข้อเสีย | ⏳ |
-| 92 | 911-920 | Spring Cloud: Service Discovery (Eureka), Load Balancing | ⏳ |
-| 93 | 921-930 | Spring Cloud: API Gateway (Spring Cloud Gateway) | ⏳ |
-| 94 | 931-940 | Spring Cloud: Config Server, Circuit Breaker (Resilience4j) | ⏳ |
-| 95 | 941-950 | Docker สำหรับ Java Developers: Dockerfile, Docker Compose | ⏳ |
-| 96 | 951-960 | Kubernetes เบื้องต้นสำหรับ Java Applications | ⏳ |
-| 97 | 961-970 | CI/CD Pipeline ด้วย GitHub Actions/Jenkins | ⏳ |
-| 98 | 971-980 | Cloud Deployment (AWS/GCP) สำหรับ Java Applications | ⏳ |
-| 99 | 981-990 | Monitoring และ Observability (Actuator, Prometheus, Grafana, ELK) | ⏳ |
-| 100 | 991-1000 | System Design สำหรับ Java Developers: Scalability, HA, Caching Strategy | ⏳ |
+| 91 | 901-910 | Microservices Architecture เบื้องต้น: หลักการ, ข้อดี-ข้อเสีย | ✅ |
+| 92 | 911-920 | Spring Cloud: Service Discovery (Eureka), Load Balancing | ✅ |
+| 93 | 921-930 | Spring Cloud: API Gateway (Spring Cloud Gateway) | ✅ |
+| 94 | 931-940 | Spring Cloud: Config Server, Circuit Breaker (Resilience4j) | ✅ |
+| 95 | 941-950 | Docker สำหรับ Java Developers: Dockerfile, Docker Compose | ✅ |
+| 96 | 951-960 | Kubernetes เบื้องต้นสำหรับ Java Applications | ✅ |
+| 97 | 961-970 | CI/CD Pipeline ด้วย GitHub Actions/Jenkins | ✅ |
+| 98 | 971-980 | Cloud Deployment (AWS/GCP) สำหรับ Java Applications | ✅ |
+| 99 | 981-990 | Monitoring และ Observability (Actuator, Prometheus, Grafana, ELK) | ✅ |
+| 100 | 991-1000 | System Design สำหรับ Java Developers: Scalability, HA, Caching Strategy | ✅ |
 | 101 | 1001-1010 | Security Best Practices ระดับมืออาชีพ (OWASP Top 10 สำหรับ Java) | ⏳ |
 | 102 | 1011-1020 | Advanced Concurrency Patterns และ Reactive Programming (Project Reactor) | ⏳ |
 | 103 | 1021-1030 | โปรเจกต์จบหลักสูตร: E-Commerce Platform แบบ Full Stack (ตอนที่ 1) | ⏳ |
