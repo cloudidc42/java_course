@@ -81,10 +81,25 @@ Concurrency — Part 36-50) เสร็จสมบูรณ์แล้ว! �
 **Design Patterns (Part 54-56) และ Testing (Part 58-60) เสร็จสมบูรณ์แล้ว!
 รวม 60/105 Part**
 
+- [x] Part 61 — Build Tools: Maven
+- [x] Part 62 — Build Tools: Gradle
+- [x] Part 63 — Logging (SLF4J/Logback)
+- [x] Part 64 — JDBC
+- [x] Part 65 — SQL CRUD, Transactions
+- [x] Part 66 — Connection Pooling (HikariCP)
+- [x] Part 67 — JVM Internals
+- [x] Part 68 — Performance Tuning, Profiling
+- [x] Part 69 — Java Module System (JPMS)
+- [x] Part 70 — Networking, JSON (Jackson/Gson)
+
+**หมวดที่ 4: Java ขั้นสูงและ Tooling (Part 56-70) เสร็จสมบูรณ์แล้ว!
+รวม 70/105 Part — สองในสามของหลักสูตรทั้งหมดเสร็จแล้ว**
+
 ## กำลังดำเนินการ / อยู่ในแผนถัดไป
 
-ดูรายการทั้งหมด (Part 61-105+) ได้ที่ [`CURRICULUM.md`](./CURRICULUM.md)
-Part ถัดไปที่จะเขียนคือ **Part 61 — Build Tools: Maven**
+ดูรายการทั้งหมด (Part 71-105+) ได้ที่ [`CURRICULUM.md`](./CURRICULUM.md)
+Part ถัดไปที่จะเขียนคือ **Part 71 — HTTP และ Web Fundamentals** (เริ่มหมวด
+ที่ 5: การพัฒนาเว็บแอปพลิเคชัน)
 
 ## แนวทางการเขียนเนื้อหาต่อ
 

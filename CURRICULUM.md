@@ -87,16 +87,16 @@
 | 58 | 571-580 | Unit Testing ด้วย JUnit 5 (Assertions, Lifecycle, Parameterized Tests) | ✅ |
 | 59 | 581-590 | Mocking ด้วย Mockito | ✅ |
 | 60 | 591-600 | Test-Driven Development (TDD) ในทางปฏิบัติ | ✅ |
-| 61 | 601-610 | Build Tools: Maven เบื้องต้นถึงขั้นสูง (POM, Lifecycle, Plugins) | ⏳ |
-| 62 | 611-620 | Build Tools: Gradle เบื้องต้นถึงขั้นสูง | ⏳ |
-| 63 | 621-630 | Logging ด้วย SLF4J และ Logback | ⏳ |
-| 64 | 631-640 | JDBC และการเชื่อมต่อฐานข้อมูล (Connection, Statement, ResultSet) | ⏳ |
-| 65 | 641-650 | SQL กับ Java: CRUD แบบเต็มรูปแบบ, PreparedStatement, Transaction | ⏳ |
-| 66 | 651-660 | Connection Pooling (HikariCP), DataSource | ⏳ |
-| 67 | 661-670 | JVM Internals: Memory Model, Heap/Stack, Garbage Collection | ⏳ |
-| 68 | 671-680 | Performance Tuning และ Profiling เบื้องต้น | ⏳ |
-| 69 | 681-690 | JAR Files, Classpath, Java Module System (JPMS) | ⏳ |
-| 70 | 691-700 | Networking: Socket Programming, JSON ด้วย Jackson/Gson | ⏳ |
+| 61 | 601-610 | Build Tools: Maven เบื้องต้นถึงขั้นสูง (POM, Lifecycle, Plugins) | ✅ |
+| 62 | 611-620 | Build Tools: Gradle เบื้องต้นถึงขั้นสูง | ✅ |
+| 63 | 621-630 | Logging ด้วย SLF4J และ Logback | ✅ |
+| 64 | 631-640 | JDBC และการเชื่อมต่อฐานข้อมูล (Connection, Statement, ResultSet) | ✅ |
+| 65 | 641-650 | SQL กับ Java: CRUD แบบเต็มรูปแบบ, PreparedStatement, Transaction | ✅ |
+| 66 | 651-660 | Connection Pooling (HikariCP), DataSource | ✅ |
+| 67 | 661-670 | JVM Internals: Memory Model, Heap/Stack, Garbage Collection | ✅ |
+| 68 | 671-680 | Performance Tuning และ Profiling เบื้องต้น | ✅ |
+| 69 | 681-690 | JAR Files, Classpath, Java Module System (JPMS) | ✅ |
+| 70 | 691-700 | Networking: Socket Programming, JSON ด้วย Jackson/Gson | ✅ |
 
 ## ส่วนที่ 5: การพัฒนาเว็บแอปพลิเคชัน (Part 71-90 | Steps 701-900)
 
