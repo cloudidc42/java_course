@@ -112,16 +112,16 @@
 | 78 | 771-780 | Building REST API ด้วย Spring Boot (@RestController, ResponseEntity) | ✅ |
 | 79 | 781-790 | Spring Data JPA เบื้องต้น: Repository, Query Methods | ✅ |
 | 80 | 791-800 | Hibernate/JPA ขั้นสูง: Relationships, Lazy/Eager Loading, N+1 | ✅ |
-| 81 | 801-810 | Spring Boot: Validation (Bean Validation) และ Global Exception Handling | ⏳ |
-| 82 | 811-820 | Spring Security เบื้องต้น: Authentication, Authorization | ⏳ |
-| 83 | 821-830 | Spring Security: JWT Authentication แบบเต็มระบบ | ⏳ |
-| 84 | 831-840 | Spring Boot Testing: MockMvc, @SpringBootTest, Testcontainers | ⏳ |
-| 85 | 841-850 | RESTful API Design Best Practices, Versioning, Pagination | ⏳ |
-| 86 | 851-860 | API Documentation ด้วย Swagger/OpenAPI | ⏳ |
-| 87 | 861-870 | Caching ด้วย Redis และ Spring Cache Abstraction | ⏳ |
-| 88 | 871-880 | Messaging: RabbitMQ กับ Spring AMQP | ⏳ |
-| 89 | 881-890 | Messaging: Apache Kafka กับ Spring Kafka | ⏳ |
-| 90 | 891-900 | WebSocket และ Real-time Applications (STOMP) | ⏳ |
+| 81 | 801-810 | Spring Boot: Validation (Bean Validation) และ Global Exception Handling | ✅ |
+| 82 | 811-820 | Spring Security เบื้องต้น: Authentication, Authorization | ✅ |
+| 83 | 821-830 | Spring Security: JWT Authentication แบบเต็มระบบ | ✅ |
+| 84 | 831-840 | Spring Boot Testing: MockMvc, @SpringBootTest, Testcontainers | ✅ |
+| 85 | 841-850 | RESTful API Design Best Practices, Versioning, Pagination | ✅ |
+| 86 | 851-860 | API Documentation ด้วย Swagger/OpenAPI | ✅ |
+| 87 | 861-870 | Caching ด้วย Redis และ Spring Cache Abstraction | ✅ |
+| 88 | 871-880 | Messaging: RabbitMQ กับ Spring AMQP | ✅ |
+| 89 | 881-890 | Messaging: Apache Kafka กับ Spring Kafka | ✅ |
+| 90 | 891-900 | WebSocket และ Real-time Applications (STOMP) | ✅ |
 
 ## ส่วนที่ 6: ระดับมืออาชีพและระดับโลก (Part 91-105 | Steps 901-1000+)
 

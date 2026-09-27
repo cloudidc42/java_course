@@ -108,10 +108,24 @@ Concurrency — Part 36-50) เสร็จสมบูรณ์แล้ว! �
 
 **80/105 Part เสร็จแล้ว — เหลืออีก 25 Part (Web ต่อ + Professional level)**
 
+- [x] Part 81 — Validation (Bean Validation) และ Global Exception Handling
+- [x] Part 82 — Spring Security เบื้องต้น: Authentication, Authorization
+- [x] Part 83 — Spring Security: JWT Authentication แบบเต็มระบบ
+- [x] Part 84 — Spring Boot Testing: MockMvc, @SpringBootTest, Testcontainers
+- [x] Part 85 — RESTful API Design Best Practices, Versioning, Pagination
+- [x] Part 86 — API Documentation ด้วย Swagger/OpenAPI
+- [x] Part 87 — Caching ด้วย Redis และ Spring Cache Abstraction
+- [x] Part 88 — Messaging: RabbitMQ กับ Spring AMQP
+- [x] Part 89 — Messaging: Apache Kafka กับ Spring Kafka
+- [x] Part 90 — WebSocket และ Real-time Applications (STOMP)
+
+**หมวดที่ 5: Web Development (Part 71-90) เสร็จสมบูรณ์แล้ว! รวม 90/105
+Part — เหลือแค่หมวดสุดท้าย: Professional/World-class Level (Part 91-105)**
+
 ## กำลังดำเนินการ / อยู่ในแผนถัดไป
 
-ดูรายการทั้งหมด (Part 81-105+) ได้ที่ [`CURRICULUM.md`](./CURRICULUM.md)
-Part ถัดไปที่จะเขียนคือ **Part 81 — Validation และ Exception Handling**
+ดูรายการทั้งหมด (Part 91-105+) ได้ที่ [`CURRICULUM.md`](./CURRICULUM.md)
+Part ถัดไปที่จะเขียนคือ **Part 91 — Microservices Architecture**
 
 ## แนวทางการเขียนเนื้อหาต่อ
 
