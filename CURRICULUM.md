@@ -102,16 +102,16 @@
 
 | Part | ขั้นตอน | หัวข้อ | สถานะ |
 |---|---|---|---|
-| 71 | 701-710 | HTTP และ Web Fundamentals สำหรับ Java Developer | ⏳ |
-| 72 | 711-720 | Servlet และ JSP เบื้องต้น | ⏳ |
-| 73 | 721-730 | Introduction to Spring Framework, IoC Container | ⏳ |
-| 74 | 731-740 | Spring Core: Dependency Injection, Bean Scopes, Configuration | ⏳ |
-| 75 | 741-750 | Spring Boot เบื้องต้น: Auto-configuration, Starter | ⏳ |
-| 76 | 751-760 | Spring Boot: Configuration Properties, Profiles, Environment | ⏳ |
-| 77 | 761-770 | Spring MVC: Controller, Model, View, Thymeleaf | ⏳ |
-| 78 | 771-780 | Building REST API ด้วย Spring Boot (@RestController, ResponseEntity) | ⏳ |
-| 79 | 781-790 | Spring Data JPA เบื้องต้น: Repository, Query Methods | ⏳ |
-| 80 | 791-800 | Hibernate/JPA ขั้นสูง: Relationships, Lazy/Eager Loading, N+1 | ⏳ |
+| 71 | 701-710 | HTTP และ Web Fundamentals สำหรับ Java Developer | ✅ |
+| 72 | 711-720 | Servlet และ JSP เบื้องต้น | ✅ |
+| 73 | 721-730 | Introduction to Spring Framework, IoC Container | ✅ |
+| 74 | 731-740 | Spring Core: Dependency Injection, Bean Scopes, Configuration | ✅ |
+| 75 | 741-750 | Spring Boot เบื้องต้น: Auto-configuration, Starter | ✅ |
+| 76 | 751-760 | Spring Boot: Configuration Properties, Profiles, Environment | ✅ |
+| 77 | 761-770 | Spring MVC: Controller, Model, View, Thymeleaf | ✅ |
+| 78 | 771-780 | Building REST API ด้วย Spring Boot (@RestController, ResponseEntity) | ✅ |
+| 79 | 781-790 | Spring Data JPA เบื้องต้น: Repository, Query Methods | ✅ |
+| 80 | 791-800 | Hibernate/JPA ขั้นสูง: Relationships, Lazy/Eager Loading, N+1 | ✅ |
 | 81 | 801-810 | Spring Boot: Validation (Bean Validation) และ Global Exception Handling | ⏳ |
 | 82 | 811-820 | Spring Security เบื้องต้น: Authentication, Authorization | ⏳ |
 | 83 | 821-830 | Spring Security: JWT Authentication แบบเต็มระบบ | ⏳ |

@@ -95,11 +95,23 @@ Concurrency — Part 36-50) เสร็จสมบูรณ์แล้ว! �
 **หมวดที่ 4: Java ขั้นสูงและ Tooling (Part 56-70) เสร็จสมบูรณ์แล้ว!
 รวม 70/105 Part — สองในสามของหลักสูตรทั้งหมดเสร็จแล้ว**
 
+- [x] Part 71 — HTTP และ Web Fundamentals
+- [x] Part 72 — Servlet และ JSP
+- [x] Part 73 — Introduction to Spring Framework
+- [x] Part 74 — Spring Core: Dependency Injection
+- [x] Part 75 — Spring Boot เบื้องต้น
+- [x] Part 76 — Spring Boot Configuration/Profiles
+- [x] Part 77 — Spring MVC
+- [x] Part 78 — REST API
+- [x] Part 79 — Spring Data JPA
+- [x] Part 80 — Hibernate/JPA ขั้นสูง
+
+**80/105 Part เสร็จแล้ว — เหลืออีก 25 Part (Web ต่อ + Professional level)**
+
 ## กำลังดำเนินการ / อยู่ในแผนถัดไป
 
-ดูรายการทั้งหมด (Part 71-105+) ได้ที่ [`CURRICULUM.md`](./CURRICULUM.md)
-Part ถัดไปที่จะเขียนคือ **Part 71 — HTTP และ Web Fundamentals** (เริ่มหมวด
-ที่ 5: การพัฒนาเว็บแอปพลิเคชัน)
+ดูรายการทั้งหมด (Part 81-105+) ได้ที่ [`CURRICULUM.md`](./CURRICULUM.md)
+Part ถัดไปที่จะเขียนคือ **Part 81 — Validation และ Exception Handling**
 
 ## แนวทางการเขียนเนื้อหาต่อ
 
